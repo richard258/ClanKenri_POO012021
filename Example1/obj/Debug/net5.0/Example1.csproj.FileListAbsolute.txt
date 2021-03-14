@@ -1,0 +1,16 @@
+C:\Users\Richard\Desktop\POO012021\Example1\obj\Debug\net5.0\Example1.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\POO012021\Example1\obj\Debug\net5.0\Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Richard\Desktop\POO012021\Example1\obj\Debug\net5.0\Example1.AssemblyInfoInputs.cache
+C:\Users\Richard\Desktop\POO012021\Example1\obj\Debug\net5.0\Example1.AssemblyInfo.cs
+C:\Users\Richard\Desktop\POO012021\Example1\obj\Debug\net5.0\Example1.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\POO012021\Example1\bin\Debug\net5.0\Example1.exe
+C:\Users\Richard\Desktop\POO012021\Example1\bin\Debug\net5.0\Example1.deps.json
+C:\Users\Richard\Desktop\POO012021\Example1\bin\Debug\net5.0\Example1.runtimeconfig.json
+C:\Users\Richard\Desktop\POO012021\Example1\bin\Debug\net5.0\Example1.runtimeconfig.dev.json
+C:\Users\Richard\Desktop\POO012021\Example1\bin\Debug\net5.0\Example1.dll
+C:\Users\Richard\Desktop\POO012021\Example1\bin\Debug\net5.0\ref\Example1.dll
+C:\Users\Richard\Desktop\POO012021\Example1\bin\Debug\net5.0\Example1.pdb
+C:\Users\Richard\Desktop\POO012021\Example1\obj\Debug\net5.0\Example1.dll
+C:\Users\Richard\Desktop\POO012021\Example1\obj\Debug\net5.0\ref\Example1.dll
+C:\Users\Richard\Desktop\POO012021\Example1\obj\Debug\net5.0\Example1.pdb
+C:\Users\Richard\Desktop\POO012021\Example1\obj\Debug\net5.0\Example1.genruntimeconfig.cache
