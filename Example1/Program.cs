@@ -8,18 +8,19 @@ namespace Example1
         {
            int a = 0, b = 0;
 
-           Console.WriteLine("Enter a value for a:");
+           Console.WriteLine("Enter a value for A:");
            a = Int32.Parse(Console.ReadLine());
 
            Console.WriteLine("Enter a value for b:");
            b = Int32.Parse(Console.ReadLine());
-
-           Console.WriteLine($"Adding {a} - {b} equals {AddNumbers(a,b)}");
+           //Changing the substration sign for the multiplication one
+           Console.WriteLine($"Multiplying {a} * {b} equals {AddNumbers(a,b)}");
         }
 
         public static int AddNumbers(int a, int b)
         {
-            return a - b;
+            //Changing the operation sign, the value  will now return a multiplication instead of a substraction
+            return a * b;
         }
     }
 }
