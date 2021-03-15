@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Richard\\Desktop\\POO012021\\Example1\\Example1.csproj": {}
+    "C:\\Users\\przke\\Documents\\Trabajos\\C#\\COMPU\\ClanKenri_POO012021\\Example1\\Example1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Richard\\Desktop\\POO012021\\Example1\\Example1.csproj": {
+    "C:\\Users\\przke\\Documents\\Trabajos\\C#\\COMPU\\ClanKenri_POO012021\\Example1\\Example1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Richard\\Desktop\\POO012021\\Example1\\Example1.csproj",
+        "projectUniqueName": "C:\\Users\\przke\\Documents\\Trabajos\\C#\\COMPU\\ClanKenri_POO012021\\Example1\\Example1.csproj",
         "projectName": "Example1",
-        "projectPath": "C:\\Users\\Richard\\Desktop\\POO012021\\Example1\\Example1.csproj",
-        "packagesPath": "C:\\Users\\Richard\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Richard\\Desktop\\POO012021\\Example1\\obj\\",
+        "projectPath": "C:\\Users\\przke\\Documents\\Trabajos\\C#\\COMPU\\ClanKenri_POO012021\\Example1\\Example1.csproj",
+        "packagesPath": "C:\\Users\\przke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\przke\\Documents\\Trabajos\\C#\\COMPU\\ClanKenri_POO012021\\Example1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Richard\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\przke\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
